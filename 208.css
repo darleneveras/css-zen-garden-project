@@ -209,7 +209,7 @@ background:
 padding-bottom:20px;
 background:
 	url(right_bottom.gif) bottom no-repeat,
-	url(right_bg.gif) right repeat-y;
+	url(right_bg.gif) right repeat-y;   
 }
 
 .design-selection li a {
@@ -276,8 +276,8 @@ background:url(images/left_bg.gif) repeat-y;
 }
 
 /* h3 image */
-.preamble h3 {background:url(images/The\ Road\ to\ Enlightenment.jpg) no-repeat;}
-.explanation h3 {background:url(images/So\ What\ is\ this\ About.jpg) no-repeat;}
+.preamble h3 {background:url(images/title_road_to_enlightenment.jpg) no-repeat;}
+.explanation h3 {background:url(images/title_so_what_is_this_about.jpg) no-repeat;}
 .participation h3 {background:url(images/title_participation.jpg) no-repeat;}
 .benefits h3 {background:url(images/title_benefits.jpg) no-repeat;}
 .requirements h3 {background:url(images/title_requirements.jpg) no-repeat;}
