@@ -276,8 +276,8 @@ background:url(images/left_bg.gif) repeat-y;
 }
 
 /* h3 image */
-.preamble h3 {background:url(/images/The\ Road\ to\ Enlightenment.jpg) no-repeat;}
-.explanation h3 {background:url(/images/So\ What\ is\ this\ About.jpg) no-repeat;}
+.preamble h3 {background:url(images/The\ Road\ to\ Enlightenment.jpg) no-repeat;}
+.explanation h3 {background:url(images/So\ What\ is\ this\ About.jpg) no-repeat;}
 .participation h3 {background:url(images/title_participation.jpg) no-repeat;}
 .benefits h3 {background:url(images/title_benefits.jpg) no-repeat;}
 .requirements h3 {background:url(images/title_requirements.jpg) no-repeat;}
