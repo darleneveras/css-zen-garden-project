@@ -15,7 +15,7 @@ body {
 margin:0;
 padding:0;
 font:75%/1.4 verdana,Helvetica,sans-serif;
-background: linear-gradient(to bottom,rgb(245, 245, 245), rgb(35, 154, 234), rgb(38, 162, 211));
+background: linear-gradient(to bottom,rgb(245, 245, 245), rgb(35, 154, 234),rgb(245, 245, 245), rgb(38, 162, 211));
 text-align:center;	
 }
 
